@@ -7,10 +7,10 @@ Il est fondé entre les adhérents aux présents statuts une association régie 
 
 # Article 2 - Objet:
 Cette association a pour but : 
-- La conception, fabrications d'outils numériques ou non visant à susciter ou favoriser la création. 
+- La conception, fabrication d'outils numériques ou non visant à susciter ou favoriser la création. 
 - La réalisation de projets coopératifs ayant une composante culturelle, humanitaire ou scientifique. 
 - La transmission de savoir faire par la publication des travaux effectués. 
-- L'engagement d'actions susceptible d'accroître la liberté d'utiliser, créer, analyser, modifier tout objet ou tout bien. 
+- L'engagement d'actions susceptibles d'accroître la liberté d'utiliser, créer, analyser, modifier tout objet ou tout bien. 
 - La mise à disposition des adhérents d'un espace de travail internet et physique. 
 - La mise à disposition de ressources communes. 
 - La sensibilisation aux technologies ainsi que leur étude et appropriation. 
@@ -33,23 +33,23 @@ La durée de l'association est illimitée.
 
 
 # Article 6 - Admission:
-L'admission est ouverte à toutes personnes qui adhère aux statuts et à la charte du L@bx
+L'admission est ouverte à toute personne qui adhère aux statuts et à la charte du L@bx
 
 
 # Article 7 - Les membres:
-Sont membres d'honneur ceux qui ont rendu des services signalés à l'association ; ils sont dispensés de cotisations mais ne peuvent prendre part aux votes de l'Assemblée Générale.
-Sont membres actifs ceux qui sont à jours de leur cotisations. Ils ont le droit de vote lors des Assemblées Générales.
+Sont membres d'honneur ceux qui ont rendus des services signalés à l'association ; ils sont dispensés de cotisations mais ne peuvent prendre part aux votes de l'Assemblée Générale.
+Sont membres actifs ceux qui sont à jour de leur cotisation. Ils ont le droit de vote lors des Assemblées Générales.
 
 
 # Article 8 - Radiations:
 La qualité de membre se perd par : 
 - La démission.
 - Le décès.
-- La radiation prononcée par le bureau pour non-paiement de la cotisation ou pour motif grave, l'intéressé ayant été invité  à se présenter devant le CA  pour fournir des explications.  Les avis sont motivés ensuite par le CA pendant les Assemblées Générales. 
+- La radiation prononcée par le bureau pour non-paiement de la cotisation ou pour motif grave, l'intéressé ayant été invité à se présenter devant le CA pour fournir des explications. Les avis sont motivés ensuite par le CA pendant les Assemblées Générales. 
 
 
 # Article 9 - La vie associative:
-La vie associative du L@bx appartient à ses membres, ils peuvent réaliser les projet, organiser les événements qu'ils souhaitent, sans l'aval du CA, dans le respect du statut et de la charte du L@bx
+La vie associative du L@bx appartient à ses membres, ils peuvent réaliser les projets, organiser les événements qu'ils souhaitent, sans l'aval du CA, dans le respect du statut et de la charte du L@bx
 
 
 # Article 10 - Les ressources:
@@ -69,7 +69,7 @@ Au cours de sa première séance, le CA choisit parmi ses membres celui qui assu
 
 Les membres du CA sont élus pour un an par l'assemblée générale annuelle. Les membres sont rééligibles.
 
-En cas de vacance, le conseil pourvoit provisoirement au remplacement de ses membres. Il est
+En cas de vacances, le conseil pourvoit provisoirement au remplacement de ses membres. Il est
 procédé à leur remplacement définitif à la prochaine assemblée générale. Les pouvoirs des
 membres ainsi élus prennent fin à la date à laquelle devait normalement expirer le mandat des
 membres remplacés.
